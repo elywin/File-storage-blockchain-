@@ -1,6 +1,6 @@
 pragma solidity ^0.5.0;
 
-contract Meme {
+contract File {
   string memeHash;
 
   function set(string memory _memeHash) public {
